@@ -1,6 +1,8 @@
 # matGadgets
 Some gadgets implemented by Matlab.
 
+To run the code, we need the support of Tensor Toolbox for MATLAB, Version 3.2.1. The toolbox can be downloaded from here: https://gitlab.com/tensors/tensor_toolbox/-/archive/v3.2.1/tensor_toolbox-v3.2.1.zip. After you download the toolbox, decompress under the matGadgets/ directory, and add toolbox folder to path using 'addpath('tensor_toolbox-v3.2.1');' command in the code (Please see the demo for details).
+
 Version History: 
     May 10, 2021 Created repo and uploaded main body.
     
